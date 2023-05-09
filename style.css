@@ -177,7 +177,7 @@ ul{
 }
 @media(max-width:395px){
     .main-slider-text{
-        left:60%;
+        left:30%;
     }
     .main-slider-text h4{
         font-size: 5rem;
